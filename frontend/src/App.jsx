@@ -47,9 +47,6 @@ export default function App() {
               </p>
             </div>
           </div>
-          <span className="text-xs font-semibold text-primary bg-brand-50 border border-brand-200 px-3 py-1 rounded-full">
-            ANLP Mini Project
-          </span>
         </div>
       </header>
 
