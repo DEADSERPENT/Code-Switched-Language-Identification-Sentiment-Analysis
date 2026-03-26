@@ -1,0 +1,18 @@
+{
+  "base_model": "FacebookAI/xlm-roberta-base",
+  "num_lid_labels": 6,
+  "num_sentiment_labels": 3,
+  "lid_labels": [
+    "lang1",
+    "lang2",
+    "mixed",
+    "ne",
+    "other",
+    "univ"
+  ],
+  "sentiment_labels": [
+    "negative",
+    "neutral",
+    "positive"
+  ]
+}
